@@ -1,5 +1,5 @@
 import React from 'react'
-import { WorkData } from './data/Work';
+
 
 function WorkCard({ item }) {
     return (
