@@ -1,7 +1,7 @@
 export const SocialData = [
     {
         platform: "Instagram",
-        link: "https://www.instagram.com/_rahul__888",
+        link: "https://www.instagram.com/_rahul__888/",
         icon: require("../../img/instagram.png").default,
     },
     {
@@ -11,7 +11,7 @@ export const SocialData = [
     },
     {
         platform: "Linkedin",
-        link: "www.linkedin.com/in/rahulparmar0",
+        link: "https://linkedin.com/in/rahulparmar0",
         icon: require("../../img/linkedin.png").default,
     },
     {
